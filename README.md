@@ -7,8 +7,8 @@ Remeber to update the correct version, correct WiFi & credentials - do not chang
 const char* version = "2.3";  // ESP32's nuværende version
 const char* json_url = "https://raw.githubusercontent.com/ashImbox/pressure_tester_ota/main/firmware.json";  // Rå URL til JSON fil
 
-const char* ssid = "Imbox_Udvikling";
-const char* password = "1470014700";
+const char* ssid = "xxx";
+const char* password = "xxx";
 
 
 # Notes firmware.json 
